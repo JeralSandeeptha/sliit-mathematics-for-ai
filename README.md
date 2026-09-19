@@ -4,3 +4,4 @@
 - [Functions](./docs/fucntions/index.md)
 - [Scalars](./docs/scalars/index.md)
 - [Vectors](./docs/vectors/index.md)
+- [Calculus](./docs/calculus/index.md)
